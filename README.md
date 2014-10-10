@@ -1,7 +1,6 @@
-# Webapp HTML5 Boilerplate
+# Node Webapp HTML5 Boilerplate
 
-Simple Frontend HTML5 Boilerplate with main focus
-on angular.js, ember.js and ampersand.js.
+Simple Node.js HTML5 Boilerplate 
 
 This project is still in beta!
 
